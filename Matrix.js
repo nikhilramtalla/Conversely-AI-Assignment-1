@@ -1,5 +1,5 @@
 import React, {Component} from 'react'
-import './index.css'
+import './matrix.css'
 
 class Matrix extends Component {
   constructor(props) {
